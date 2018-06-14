@@ -1,0 +1,34 @@
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe.config
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\bin\Debug\MVVMZK.pdb
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.csprojResolveAssemblyReference.cache
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MainWindow.g.cs
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\App.g.cs
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK_MarkupCompile.cache
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK_MarkupCompile.lref
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MainWindow.baml
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.g.resources
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.Properties.Resources.resources
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.csproj.GenerateResource.Cache
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.exe
+C:\учеба\ЗапКниж\MVVMZK\MVVMZK\obj\Debug\MVVMZK.pdb
+G:\Дисциплина_Совр_техноПО\WPF solution\Записная книжка\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe.config
+G:\Дисциплина_Совр_техноПО\WPF solution\Записная книжка\MVVMZK\MVVMZK\obj\Debug\MVVMZK.exe
+G:\Дисциплина_Совр_техноПО\WPF solution\Записная книжка\MVVMZK\MVVMZK\obj\Debug\MVVMZK.pdb
+G:\Дисциплина_Совр_техноПО\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe.config
+G:\Дисциплина_Совр_техноПО\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.exe
+G:\Дисциплина_Совр_техноПО\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.pdb
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe.config
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.exe
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.pdb
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\bin\Debug\MVVMZK.exe
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\bin\Debug\MVVMZK.pdb
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.csprojResolveAssemblyReference.cache
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MainWindow.g.cs
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\App.g.cs
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK_MarkupCompile.cache
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK_MarkupCompile.lref
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MainWindow.baml
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.g.resources
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.Properties.Resources.resources
+G:\20.11\WPF solution\ЗК MVVM\MVVMZK\MVVMZK\obj\Debug\MVVMZK.csproj.GenerateResource.Cache
